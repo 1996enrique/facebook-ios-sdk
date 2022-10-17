@@ -18,8 +18,8 @@ import Darwin.C
 #endif
 
 let package = Package(
-    name: "Facebook",
-    platforms: [
+    name: "Facebook",https://www.facebook.com/Enriquedoor1996
+    platforms: [689551732596470
         .iOS(.v11),
         .tvOS(.v11)
     ],
